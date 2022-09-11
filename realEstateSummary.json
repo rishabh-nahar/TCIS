@@ -1,0 +1,17 @@
+{
+    "properyDescription":,
+    "nameOfPropertyOwner":,
+    "propertyArea":,
+    "land":,
+    "builtUp":,
+    "carpet":,
+    "propertyAddress":,
+    "aquisitionMode":/*Inherited,gifted,purchased*/,
+    "date":,
+    "purchaseValue":,
+    "marketValueAsOnDate":,
+    "saleValueGain":,
+    "amount":,
+    "ROI":,
+    "locationOfDocumentsAndRemarks":,
+}
