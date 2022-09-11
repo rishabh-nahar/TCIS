@@ -1,13 +1,16 @@
 {
-    "srNo":,
-    "nameOfCompany":,
-    "nameOfHolder":,
-    "referenceNoOrFolio":,
-    "dateOfInvestment":,
-    "amountInvested":,
-    "interestRate":,
-    "frequencyOfInterest":, 
-    "period":,
-    "dateOfMaturity":,
-    "remarks":,
+    "locationOfDocument":,
+    {
+        "srNo":,
+        "nameOfCompany":,
+        "nameOfHolder":,
+        "referenceNoOrFolio":,
+        "dateOfInvestment":,
+        "amountInvested":,
+        "interestRate":,
+        "frequencyOfInterest":, 
+        "period":,
+        "dateOfMaturity":,
+        "remarks":,
+    }
 }

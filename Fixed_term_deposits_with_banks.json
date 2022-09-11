@@ -1,0 +1,17 @@
+{
+    "locationOfDocument":,
+    "data":{
+        "nameOfBank":,
+        "addressOfBank":,
+        "nameOfHolders":,
+        "dateOfInvestments":,
+        "recieptNo":,
+        "perioOfDeposit":,
+        "interestRate":,
+        "modeOfInterest":,
+        "dateOfMaturity":,
+        "maturityAmount":,
+        "remarks":,   
+    }
+    
+}

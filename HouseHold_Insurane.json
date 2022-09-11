@@ -1,0 +1,14 @@
+{
+    "locationOfDocument":,
+    "data":{
+        "nameOfInsuranceCompany":,
+        "policyNo":,
+        "commencement":,
+        "riskCoveredValidUpto":,
+        "riskCovered":,
+        "premium":,
+        "insuredAmount":,
+        "claim":,
+        "remarks":,
+    }
+}
