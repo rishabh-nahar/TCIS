@@ -1,0 +1,20 @@
+{
+    "bankName":,
+    "address":[
+        {
+            "addressLine1":,
+            "addressLine2":,
+            "postalCode":,
+            "state":,
+            "country":
+        },
+    ],
+    "lockerType":,
+    "lockerNumber":,
+    "lockerName":,
+    "yearlyRent":,
+    "dueDate":,
+    "operationMode":,
+    "idCode":,
+    "remarks":,
+}
