@@ -1,4 +1,14 @@
 {
-    "spouseName":,
+    "spouseName":[
+        {
+            "firstName":,
+            "middleName":,
+            "lastName":
+        }
+    ],
     "dateOfBirth":,
+    "contactNumber":,
+    "bloodGroup":,
+    "PANNumber":,
+    "email":,
 }
