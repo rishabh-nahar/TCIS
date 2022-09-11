@@ -4,7 +4,7 @@
             "firstName":,
             "middleName":,
             "lastName":
-        }
+        },
 
     ],
     "address":[
@@ -14,7 +14,7 @@
             "postalCode":,
             "state":,
             "country":
-        }
+        },
     ],
     "dateOfBirth":,
     "contactNumber":,
