@@ -1,0 +1,14 @@
+{
+    "companyName":,
+    "companyAddress":,
+    "policyNumber":,
+    "dateOfCommencement":,
+    "vehicleNumber":,
+    "yearOfManufacture":,
+    "typeOfPolicy":,
+    "validUpto":,
+    "premiumPaid":,
+    "inuredAmount":,
+    "claim":,
+    "remarks":,
+}
