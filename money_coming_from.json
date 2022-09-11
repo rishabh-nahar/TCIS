@@ -1,7 +1,6 @@
 {
     "income":[
         {
-            "month":,
             "january":{
                 "postTaxSalary":,
                 "spouceIncome":,
@@ -12,7 +11,6 @@
             },
         },
         {
-            "month":,
             "february":{
                 "postTaxSalary":,
                 "spouceIncome":,
@@ -23,7 +21,6 @@
             },
         },
         {
-            "month":,
             "march":{
                 "postTaxSalary":,
                 "spouceIncome":,
@@ -34,7 +31,6 @@
             },
         },
         {
-            "month":,
             "april":{
                 "postTaxSalary":,
                 "spouceIncome":,
@@ -45,7 +41,6 @@
             },
         }
         {
-            "month":,
             "may":{
                 "postTaxSalary":,
                 "spouceIncome":,
@@ -56,7 +51,6 @@
             },
         },
         {
-            "month":,
             "june":{
                 "postTaxSalary":,
                 "spouceIncome":,
@@ -67,7 +61,6 @@
             },
         },
         {
-            "month":,
             "july":{
                 "postTaxSalary":,
                 "spouceIncome":,
@@ -78,7 +71,6 @@
             },
         },
         {
-            "month":,
             "august":{
                 "postTaxSalary":,
                 "spouceIncome":,
@@ -90,7 +82,6 @@
         }
         
         {
-            "month":,
             "september":{
                 "postTaxSalary":,
                 "spouceIncome":,
@@ -101,7 +92,6 @@
             },
         },
         {
-            "month":,
             "october":{
                 "postTaxSalary":,
                 "spouceIncome":,
@@ -112,7 +102,6 @@
             },
         },
         {
-            "month":,
             "november":{
                 "postTaxSalary":,
                 "spouceIncome":,
@@ -123,7 +112,6 @@
             },
         },
         {
-            "month":,
             "december":{
                 "postTaxSalary":,
                 "spouceIncome":,
