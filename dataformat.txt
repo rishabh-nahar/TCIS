@@ -3,3 +3,5 @@
     familyInfo:{..},
     
 }
+
+List of imp persons -> fixed table
