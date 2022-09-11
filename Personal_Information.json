@@ -1,0 +1,19 @@
+{
+    "name":[
+        {
+            "firstName":,
+            "middleName":,
+            "lastName":
+        }
+
+    ],
+    
+    "dateOfBirth":,
+    "contactNumber":,
+    "bloodGroup":,
+    "PANNumber":,
+    "email":,
+    "drivingLicenseNumber":,
+    "passportNumber":,
+    
+}
