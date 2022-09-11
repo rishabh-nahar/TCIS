@@ -1,0 +1,16 @@
+{
+    "name":[
+        {
+            "firstName":,
+            "middleName":,
+            "lastName":
+        },
+        
+    ],
+    "dpName":,
+    "dpId":,
+    "clientId":,
+    "dpBranch":,
+    "nomineeName":,
+    "dpContactDetails":,
+}
