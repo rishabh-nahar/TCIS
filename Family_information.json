@@ -1,11 +1,9 @@
 {
-    "spouseName":[
-        {
+    "spouseName":{
             "firstName":,
             "middleName":,
             "lastName":
-        }
-    ],
+        },
     "address":[
         {
             "addressLine1":,
