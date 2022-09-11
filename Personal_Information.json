@@ -15,5 +15,6 @@
     "email":,
     "drivingLicenseNumber":,
     "passportNumber":,
-    
+    "drivingLicenseExpiry":,
+    "passportExpiry":,
 }
