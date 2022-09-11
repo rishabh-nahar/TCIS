@@ -6,6 +6,15 @@
             "lastName":
         }
     ],
+    "address":[
+        {
+            "addressLine1":,
+            "addressLine2":,
+            "postalCode":,
+            "state":,
+            "country":
+        },
+    ],
     "dateOfBirth":,
     "contactNumber":,
     "bloodGroup":,

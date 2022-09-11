@@ -1,5 +1,14 @@
 {
     "name":,
+    "address":[
+        {
+            "addressLine1":,
+            "addressLine2":,
+            "postalCode":,
+            "state":,
+            "country":
+        },
+    ],
     "contactNumber":,
     "email":,
     "profession":,
